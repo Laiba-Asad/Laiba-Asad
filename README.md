@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m a Dot Net Developer
+🔭 I’m a Dot Net Developer .NET Developer and final-year Computer Science student.
+🌱 Skilled in C#, ASP.NET, and SQL, with a passion for software development and problem-solving.
+🚀 Always learning and building new things.
 
 
 ## 🌐 Socials:
