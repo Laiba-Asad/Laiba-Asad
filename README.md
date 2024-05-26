@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Dot Net Developer .NET Developer and final-year Computer Science student. <br>
+🔭 I’m a .NET Developer and final-year Computer Science student. <br>
 🌱 Skilled in C#, ASP.NET, and SQL, with a passion for software development and problem-solving. <br>
 🚀 Always learning and building new things.
 
@@ -14,13 +14,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Laiba-Asad&theme=shades-of-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Laiba-Asad&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Laiba-Asad&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Laiba-Asad&icon=2&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
