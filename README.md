@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a .NET Developer and Computer Science student. <br>
+🔭 I’m a .NET Developer <br>
 🌱 Skilled in C#, ASP.NET, and SQL, with a passion for software development and problem-solving. <br>
 🚀 Always learning and building new things.
 
