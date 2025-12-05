@@ -5,7 +5,8 @@ SOC Analyst<br>💫 Keeping an eye on threats, logs & all the shady stuff online
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laibaasad/) 
 
 ## 🛡️ TryHackMe:
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4362416" style='border:none;'></iframe>
+## 🛡️ TryHackMe:
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/LaibaAsad.png)
 
 ### 🎖 Certifications & Badges
 
